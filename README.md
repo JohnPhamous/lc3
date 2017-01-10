@@ -1,5 +1,5 @@
 # LC-3 without running a VM
-edit
+
 ## Core Files
 - LC3sim.jar is the LC-3 simulator, this requires [Java VM](https://java.com/en/download/) to be installed
 - lc3os.asm is the LC-3 OS file
